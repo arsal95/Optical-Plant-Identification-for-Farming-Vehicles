@@ -3,4 +3,4 @@ The main Objective of the project is to build a prototype of an optical plant de
 
 The pi camera is used for capturing the visuals of the field and feed them to raspberry pi. The methods used for the plant detection are machine learning and deep learning techniques. The object detection is achieved by training a deep learning model with the custom dataset of the plant ‘Rumex Acetosa’.
 
-##Requirements
+## Requirements

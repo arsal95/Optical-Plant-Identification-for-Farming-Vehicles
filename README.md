@@ -16,4 +16,4 @@ The pi camera is used for capturing the visuals of the field and feed them to ra
 * Prepare the Image dataset
 * Annotate the images using software (LabelImg), before anotation select the YOLO format from the software settings.
 * In the images create RectBox on the plant (Rumex Acetosa) and label the name of the class (Rumex Acetosa). 
-
+* Train the image dataset using "Google Colab"

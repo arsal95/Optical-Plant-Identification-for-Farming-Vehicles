@@ -29,3 +29,4 @@ The pi camera is used for capturing the visuals of the field and feed them to ra
 * Call the last weights file and YOLO V3 config file in the python script and test it on random images, videos, and camera (in real-time).
 
 ## Implemented System
+<img src="./Images/Implemented System.PNG">

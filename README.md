@@ -30,5 +30,6 @@ The pi camera is used for capturing the visuals of the field and feed them to ra
 
 ## Implemented System
 <img src="./Images/Implemented System.PNG">
-![](Images/Implemented System.PNG)
+
+![sdas](Images/Implemented System.PNG)
 

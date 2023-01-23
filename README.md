@@ -12,6 +12,11 @@ The pi camera is used for capturing the visuals of the field and feed them to ra
 6. Develop the Graphical User Interface to interact to the product.
 7. Detection in every weather conditions as well as damaged plant.
 
+## System Architecture
+| <img src="./Images/Implemented System.PNG"> |
+|:--:| 
+| *Implemented System* |
+
 ## Training YOLOv3 to detect a Rumex Acetosa (Plant)
 * Prepare the Image dataset
 * Annotate the images using software (LabelImg), before anotation select the YOLO format from the software settings.
@@ -28,11 +33,12 @@ The pi camera is used for capturing the visuals of the field and feed them to ra
 * I created a python project to test the model with Opencv.
 * Call the last weights file and YOLO V3 config file in the python script and test it on random images, videos, and camera (in real-time).
 
-## Implemented System
-| <img src="./Images/Implemented System.PNG"> |
+| ![](Images/T11.PNG) | 
 |:--:| 
-| *Space* |
+| *Testing on Video Input* |
 
-| ![](Images/Implemented%20System.PNG) | 
+| ![](Images/T12.PNG) | 
 |:--:| 
-| *Space* |
+| *Testing in Real-time using Pi-Camera* |
+
+Thank you for reading, Have a nice day :smiley:.

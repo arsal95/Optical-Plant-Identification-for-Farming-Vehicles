@@ -13,7 +13,9 @@ The pi camera is used for capturing the visuals of the field and feed them to ra
 7. Detection in every weather conditions as well as damaged plant.
 
 ## System Architecture
+<p align="center">
 | <img src="./Images/Implemented System.PNG"> |
+</p>
 |:--:| 
 | *System Architecture* |
 
